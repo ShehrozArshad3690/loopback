@@ -1,0 +1,13 @@
+{
+  "db": {
+    "host": "",
+    "port": 0,
+    "url": "mongodb+srv://mongodb:root@cluster0.ib0drct.mongodb.net/UserProfile",
+    "database": "UserProfile",
+    "password": "root",
+    "name": "db",
+    "user": "mongodb",
+    "useNewUrlParser": true,
+    "connector": "mongodb"
+  }
+}
